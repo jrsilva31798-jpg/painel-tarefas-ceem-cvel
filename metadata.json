@@ -1,0 +1,7 @@
+{
+  "name": "Painel de Tarefas CEEM CVEL",
+  "description": "Painel de controle e gerenciamento de tarefas operacionais do CEEM CVEL integrado ao Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
